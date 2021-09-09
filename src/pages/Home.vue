@@ -104,7 +104,7 @@
                           <p class="font-semibold text-xl">Trent Murphy</p>
                           <p>Product 1</p>
                       </div>
-                      <span class="text-green-500 font-semibold text-lg">$25.00</span>
+                      <span class="text-green-500 font-semibold text-lg"> KES 2500</span>
                   </div>
 
                   <div class="w-full bg-gray-100 border rounded-lg flex justify-between items-center px-4 py-2 mb-4">
@@ -112,7 +112,7 @@
                           <p class="font-semibold text-xl">Joseph Brent</p>
                           <p>Product 34</p>
                       </div>
-                      <span class="text-red-500 font-semibold text-lg">$74.99</span>
+                      <span class="text-red-500 font-semibold text-lg"> KES 7499</span>
                   </div>
 
                   <div class="w-full bg-gray-100 border rounded-lg flex justify-between items-center px-4 py-2 mb-4">
@@ -120,7 +120,7 @@
                           <p class="font-semibold text-xl">Jacob Bator</p>
                           <p>Product 23</p>
                       </div>
-                      <span class="text-green-500 font-semibold text-lg">$14.95</span>
+                      <span class="text-green-500 font-semibold text-lg">KES 1495</span>
                   </div>
 
                   <div class="w-full bg-gray-100 border rounded-lg flex justify-between items-center px-4 py-2">
@@ -128,7 +128,7 @@
                           <p class="font-semibold text-xl">Alex Mason</p>
                           <p>Product 66</p>
                       </div>
-                      <span class="text-green-500 font-semibold text-lg">$44.99</span>
+                      <span class="text-green-500 font-semibold text-lg">KES 4499</span>
                   </div>
                 </div>
               </div>
